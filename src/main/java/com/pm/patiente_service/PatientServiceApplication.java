@@ -1,13 +1,13 @@
-package com.pm.patience_serive;
+package com.pm.patiente_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PatienceSeriveApplication {
+public class PatientServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PatienceSeriveApplication.class, args);
+		SpringApplication.run(PatientServiceApplication.class, args);
 	}
 
 }
